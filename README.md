@@ -3,7 +3,7 @@ Work just like **[css-loader](https://github.com/webpack/css-loader)** and use *
 
 ## installation
 
-`npm install https://github.com/sidati/rtlcss-loader/tarball/v1.0.0 --save-dev`
+`npm install rtlcss-loader --savde-dev`
 
 ## Usage
 
