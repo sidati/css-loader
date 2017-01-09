@@ -1,6 +1,6 @@
 {
   "name": "rtlcss-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sidati MESSAITI",
   "description": "rtlcss loader module for webpack based on github.com/webpack/css-loader",
   "engines": {
