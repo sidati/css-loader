@@ -1,8 +1,8 @@
 {
-  "name": "css-loader",
-  "version": "0.26.1",
-  "author": "Tobias Koppers @sokra",
-  "description": "css loader module for webpack",
+  "name": "rtlcss-loader",
+  "version": "1.0.0",
+  "author": "Sidati MESSAITI",
+  "description": "rtlcss loader module for webpack based on github.com/webpack/css-loader",
   "engines": {
     "node": ">=0.12.0"
   },
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:webpack/css-loader.git"
+    "url": "git@github.com:sidati/rtlcss-loader.git"
   },
   "license": "MIT"
 }
