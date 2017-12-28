@@ -3,7 +3,7 @@ Work just like **[css-loader](https://github.com/webpack/css-loader)** and use *
 
 ## installation
 
-`npm install rtlcss-loader --savde-dev`
+`npm install rtlcss-loader --save-dev`
 
 ## Usage
 
